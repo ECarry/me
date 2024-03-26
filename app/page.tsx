@@ -3,7 +3,7 @@ import { TbPhotoCircle } from "react-icons/tb";
 
 export default function Home() {
   return (
-    <main className="h-dvh w-full flex flex-col gap-4 items-center justify-center">
+    <main className="h-dvh w-full flex flex-col gap-6 items-center justify-center">
       <p>
         Hi, it&apos;s <span className="font-semibold">ECarry</span> here.
       </p>
